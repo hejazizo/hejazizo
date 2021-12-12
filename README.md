@@ -23,6 +23,6 @@
   <a href="https://www.hejazizo.com"><img src="https://img.shields.io/badge/-hejazizo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/hejazizo"><img src="https://img.shields.io/badge/-hejazizo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:hejazizo@ualberta.ca"><img src="https://img.shields.io/badge/-hejazizo@ualberta.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/ali.hejazzii"><img src="https://img.shields.io/badge/-@ali.hejazzii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/ali.hejazzii"><img src="https://img.shields.io/badge/-@ali.hejazzii/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
