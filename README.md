@@ -5,3 +5,5 @@
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 🌱 I’m also teaching python. Visit my website, [hejazizo.com](hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
 - 📫 How to reach me: hejazizo@ualberta.ca
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
