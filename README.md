@@ -7,20 +7,25 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/ali.hejazzii)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
-<!-- [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
- -->
-<!--  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi) -->
-
 
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 🌱 I also teach Python, Machine Learning, Git, etc. Visit my website, [hejazizo.com](hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
 - 📫 How to reach me: hejazizo@ualberta.ca
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/hejazizo) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hejazizo&layout=compact&langs_count=11&count_private=true&theme=algolia&hide=Makefile,cmake)](https://github.com/hejazizo) -->
-
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
 </div>
+
+<!----------------------------->
+<!-- COMMENTED FOR LATER USE -->
+<!----------------------------->
+
+<!-- STATISTICS -->
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/hejazizo) -->
+
+<!-- MEDIUM & BUY ME A COFFEE -->
+<!-- [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
+ -->
+<!--  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi) -->
