@@ -9,11 +9,15 @@
 - 📫 How to reach me: hejazizo@ualberta.ca
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/hejazizo) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hejazizo&layout=compact&langs_count=11&count_private=true&theme=algolia&hide=Makefile,cmake)](https://github.com/hejazizo)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hejazizo&layout=compact&langs_count=11&count_private=true&theme=algolia&hide=Makefile,cmake)](https://github.com/hejazizo) -->
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+</div>
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
   <a href="https://www.hejazizo.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
