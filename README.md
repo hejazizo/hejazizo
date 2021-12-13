@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
-- 🌱 I also teach Python, Machine Learning, Git, etc. Visit my website, [https://www.hejazizo.com](hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
+- 🌱 I also teach Python, Machine Learning, Git, etc. Visit my website, [hejazizo.com](https://www.hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
 - 📫 How to reach me: hejazizo@ualberta.ca
 
 <div>
