@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 Owner of **PyTopia** github organization. Check it out for daily Python and Machine Learning contents at [PyTopia](https://github.com/pytopia) 
+- 💻 Owner of [**PyTopia**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 🌱 I also teach Python, Machine Learning, Git, etc. Visit my website, [hejazizo.com](https://www.hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
 - 📫 How to reach me: hejazizo@ualberta.ca
