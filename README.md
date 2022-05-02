@@ -2,8 +2,10 @@
 
 <a href="https://www.twitter.com/hejazizo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hejazizo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a> <a href="https://www.github.com/hejazizo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/>
+
+<!-- </a> <a href="https://www.github.com/hejazizo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hejazizo/)
@@ -12,7 +14,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@hejazizo)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/ali.hejazzii)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
-<!-- [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo) -->
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
 - 💻 Owner of [**PyTopia**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
