@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 Owner of [**PyTopia**](https://github.com/pytopia). Check it out for daily Python and Machine Learning contents at [pytopia.ai](pytopia.ai).
+- 💻 Owner of [**PyTopia**](https://github.com/pytopia). Check it out for daily Python and Machine Learning contents at [pytopia.ai](https://www.pytopia.ai).
 - 🌱 I teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
 - 📫 How to reach me: hejazizo@ualberta.ca
 
